@@ -1,0 +1,15 @@
+-I"D:\\/ARMws\\/KL46_ITRON\\/Project_Headers"|
+-I"D:\\/ARMws\\/KL46_ITRON\\/Project_Settings\\/Startup_Code"|
+-I"C:\\/Freescale\\/CW_MCU_v10.4\\/MCU\\/ARM_GCC_Support\\/ewl\\/EWL_C\\/include"|-I"\\/opt\\/gcc-arm-none-eabi-4_7-2013q3\\/arm-none-eabi\\/include"
+-I"C:\\/Freescale\\/CW_MCU_v10.4\\/MCU\\/ARM_GCC_Support\\/ewl\\/EWL_Runtime\\/include"|-I"\\/opt\\/gcc-arm-none-eabi-4_7-2013q3\\/lib\\/gcc\\/arm-none-eabi\\/4.7.4\\/include"
+-I"C:\\/Freescale\\/CW_MCU_v10.4\\/Cross_Tools\\/arm-none-eabi-gcc-4_7_3\\/arm-none-eabi\\/include\\/reent.h"|
+-I"D:\\/ARMws\\/KL46_ITRON\\/Sources\\/jsp"|-I"\\/home\\/quano1\\/Documents\\/embedded\\/ARM\\/ARMgit\\/KL46_ITRON\\/Sources\\/jsp"
+-specs=ewl_c.specs|
+-L"C:\\/Freescale\\/CW_MCU_v10.4\\/MCU\\/ARM_GCC_Support\\/ewl\\/lib\\/armv6-m"|-L"\\/opt\\/gcc-arm-none-eabi-4_7-2013q3\\/lib\\/gcc\\/arm-none-eabi\\/4.7.4\\/armv6-m"
+-T"D:\\/ARMws\\/KL46_ITRON\\/Sources\\/jsp\\/armv6\\/KL46\\/Linker_Files\\/MKL46Z256_flash.ld"|-T"\\/home\\/quano1\\/Documents\\/embedded\\/ARM\\/ARMgit\\/KL46_ITRON\\/Sources\\/jsp\\/armv6\\/KL46\\/Linker_Files\\/MKL46Z256_flash.ld"
+D:\\/ARMws\\/KL46_ITRON|\\/home\\/quano1\\/Documents\\/embedded\\/ARM\\/ARMgit\\/KL46_ITRON
+C:\\/Freescale\\/CW_MCU_v10.4|\\/opt\\/gcc-arm-none-eabi-4_7-2013q3
+\\/Cross_Tools\\/arm-none-eabi-gcc-4_7_3\\/bin|\\/bin
+\\/gnu\\/bin|\\/usr\\/bin
+|-I"\\/home\\/quano1\\/Documents\\/embedded\\/ARM\\/ARMgit\\/freescale\\/include"
+|-I"\\/home\\/quano1\\/Documents\\/embedded\\/ARM\\/ARMgit\\/freescale\\/include\\/arm"

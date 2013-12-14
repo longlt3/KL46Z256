@@ -1,0 +1,17 @@
+-mcpu=cortex-m0
+-mthumb
+-mfloat-abi=soft
+-g3
+-gdwarf-2
+-gstrict-dwarf
+-I"/opt/gcc-arm-none-eabi-4_7-2013q3/arm-none-eabi/include"
+-I"/opt/gcc-arm-none-eabi-4_7-2013q3/lib/gcc/arm-none-eabi/4.7.4/include"
+-I"/home/quano1/Documents/embedded/ARM/ARMgit/KL46_ITRON/Sources/jsp"
+-O0
+-ffunction-sections
+-fdata-sections
+-Wall
+-c
+-fmessage-length=0
+-I"/home/quano1/Documents/embedded/ARM/ARMgit/freescale/include"
+-I"/home/quano1/Documents/embedded/ARM/ARMgit/freescale/include/arm"

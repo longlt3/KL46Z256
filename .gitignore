@@ -1,0 +1,15 @@
+.metadata
+#**/.settings
+
+**/Debugger
+
+**/.cwGeneratedFileSetLog
+#**/.cproject
+#**/.project
+
+*.o
+*.d
+*.lst
+*.elf
+*.map
+*~

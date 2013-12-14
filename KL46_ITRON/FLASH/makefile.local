@@ -1,0 +1,10 @@
+################################################################################
+# These macros are used by makefiles and argument files.
+# When a space is included in the path and quotes (") cannot be used,
+# a _ESCAPE version of the macro is added that escapes the space with backslash (\).
+################################################################################
+
+export GNU_Make_Install_DirEnv=/usr/bin
+export ProjDirPath=/home/quano1/Documents/embedded/ARM/ARMgit/KL46_ITRON
+export CWInstallLocationEnv=/opt/gcc-arm-none-eabi-4_7-2013q3
+export ARMSourceryDirEnv=$(CWInstallLocationEnv)/bin
